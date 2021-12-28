@@ -30,6 +30,9 @@
     .contact-info{
         line-height: 2;
     }
+    #header .mobile-menu-btn{
+        display: none;
+    }
 }
 
 @media (max-width:740px){
